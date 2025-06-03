@@ -1,10 +1,10 @@
-# 国内最好用的 ChatGPT中文版镜像网站整理合集（无限使用GPT-4o和o1 ）【4月持续更新】 
+# 国内最好用的 ChatGPT中文版镜像网站整理合集（无限使用GPT-4o和o1 ）【6月持续更新】 
 
-> 更新：2025/05/22   
+> 更新：2025/06/05   
 > 作者：chatgpt-chinese
 
 欢迎访问本项目！我们为大家整理了一些国内可用的 [**ChatGPT中文版**](https://xsimplechat.com) 网站资源，方便用户无需翻墙即可快速访问 GPT 的强大功能<br />
-同时提供了免费的使用教程，助您在国内使用上 [**免费ChatGPT中文版镜像网站**](https://chat.chatgpt-chinese.com)，**无限制使用GPT-4o、o1**。
+同时提供了免费的使用教程，助您在国内使用上 [**免费ChatGPT中文版镜像网站**](https://chat.lanjing.pro)，**无限制使用GPT-4o、o1**。
 
 ## 什么是ChatGPT中文版？
 
